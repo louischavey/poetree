@@ -1,0 +1,7 @@
+.venv/
+.pip-cache/
+.tmp/
+__pycache__/
+.speech-cache/
+output/
+test-output/
